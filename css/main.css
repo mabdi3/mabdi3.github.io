@@ -17,6 +17,10 @@ body, html {
   background-size: cover;
 }
 
+.devicon-android-plain {
+  font-size: 7rem
+}
+
 .about-section {
   background: #84A587;
   padding-top: 8%;
